@@ -5,6 +5,7 @@
   "repository": "https://github.com/andela-iamao/Git-resume.git",
   "license": "MIT",
   "dependencies": {
+    "isomorphic-fetch": "^2.2.1",
     "next": "^3.0.1-beta.21",
     "react": "^15.6.1",
     "react-dom": "^15.6.1"
