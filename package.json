@@ -1,0 +1,15 @@
+{
+  "name": "Git-resume",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/andela-iamao/Git-resume.git",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^3.0.1-beta.21",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1"
+  },
+  "scripts": {
+    "dev": "next"
+  }
+}
